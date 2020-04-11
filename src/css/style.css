@@ -1,8 +1,7 @@
 .header{
     width: 100%;
-    height: 500px;
+    height: 670px;
     display: block;
-    background-color: blue;
 }
 
 .inner_header{
@@ -25,6 +24,7 @@
 
 .inner_header img{
     width: 100%;
+    height: 56%;
 }
 
 @keyframes cambio{
